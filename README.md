@@ -1,11 +1,6 @@
-👋 Hi 👋 你好
+👋 Hi
 
-I am an honours student in applied computational mathematics / machine learning at the University of Sydney. 
-
-📚 Please find here the code for the projects listed on my website.
-
-📫 linkedin.com/in/leo-y-li99
-📫 https://leosbookshelf.page/
+I'm an honours student in applied computational mathematics / machine learning at the University of Sydney. 
 
 <!---
 vibrantlychee/vibrantlychee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
