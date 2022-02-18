@@ -1,4 +1,4 @@
-👋 Hi
+👋 Hi!
 
 I'm an honours student in applied computational mathematics / machine learning at the University of Sydney. 
 
